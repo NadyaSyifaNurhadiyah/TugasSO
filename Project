@@ -107,7 +107,7 @@ if ($user_ip == " ") {
         <tr>
             <td><b>NAMA</b></td>
             <td>:</td>
-            <td>Nadya Syifa Nurhadiyah
+            <td>Nadya Syifa Nurhadiyah</td>
         </tr>
         <tr>
             <td><b>KELAS</b></td>
